@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="Kotlin Class.kt" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Kotlin Enum.kt" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Kotlin Interface.kt" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Kotlin Script.kts" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <includes_templates>
+      <template name="File Header.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="kotlin.kt" reformat="true" live-template-enabled="true" />
+    </includes_templates>
+  </component>
+</project>
